@@ -1,0 +1,311 @@
+D:\WeatherApp\gradle\libs.versions.toml:2: Warning: A newer version of com.android.application than 8.3.0 is available: 9.2.1. (There is also a newer version of 8.3.𝑥 available, if upgrading to 9.2.1 is difficult: 8.3.2) [AndroidGradlePluginVersion]
+agp = "8.3.0"
+      ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:2: Warning: A newer version of com.android.application than 8.3.0 is available: 9.2.1. (There is also a newer version of 8.3.𝑥 available, if upgrading to 9.2.1 is difficult: 8.3.2) [AndroidGradlePluginVersion]
+agp = "8.3.0"
+      ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:2: Warning: A newer version of com.android.application than 8.3.0 is available: 9.2.1. (There is also a newer version of 8.3.𝑥 available, if upgrading to 9.2.1 is difficult: 8.3.2) [AndroidGradlePluginVersion]
+agp = "8.3.0"
+      ~~~~~~~
+
+   Explanation for issues of type "AndroidGradlePluginVersion":
+   This detector looks for usage of the Android Gradle Plugin where the
+   version you are using is not the current stable release. Using older
+   versions is fine, and there are cases where you deliberately want to stick
+   with an older version. However, you may simply not be aware that a more
+   recent version is available, and that is what this lint check helps find.
+
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-livedata-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-livedata-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-livedata-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-viewmodel-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-viewmodel-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:9: Warning: A newer version of androidx.lifecycle:lifecycle-viewmodel-ktx than 2.7.0 is available: 2.10.0 [GradleDependency]
+lifecycle = "2.7.0"
+            ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-compiler than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-compiler than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-compiler than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-ktx than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-ktx than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-ktx than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-runtime than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-runtime than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:10: Warning: A newer version of androidx.room:room-runtime than 2.6.1 is available: 2.8.4 [GradleDependency]
+room = "2.6.1"
+       ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-fragment-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-fragment-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-fragment-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-ui-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-ui-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:12: Warning: A newer version of androidx.navigation:navigation-ui-ktx than 2.7.7 is available: 2.9.8 [GradleDependency]
+navigation = "2.7.7"
+             ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:16: Warning: A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.18.0 [GradleDependency]
+androidx-core = { module = "androidx.core:core-ktx", version = "1.12.0" }
+                                                               ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:16: Warning: A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.18.0 [GradleDependency]
+androidx-core = { module = "androidx.core:core-ktx", version = "1.12.0" }
+                                                               ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:16: Warning: A newer version of androidx.core:core-ktx than 1.12.0 is available: 1.18.0 [GradleDependency]
+androidx-core = { module = "androidx.core:core-ktx", version = "1.12.0" }
+                                                               ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:17: Warning: A newer version of androidx.appcompat:appcompat than 1.6.1 is available: 1.7.1 [GradleDependency]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.6.1" }
+                                                                          ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:17: Warning: A newer version of androidx.appcompat:appcompat than 1.6.1 is available: 1.7.1 [GradleDependency]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.6.1" }
+                                                                          ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:17: Warning: A newer version of androidx.appcompat:appcompat than 1.6.1 is available: 1.7.1 [GradleDependency]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.6.1" }
+                                                                          ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:18: Warning: A newer version of com.google.android.material:material than 1.11.0 is available: 1.14.0 [GradleDependency]
+material = { module = "com.google.android.material:material", version = "1.11.0" }
+                                                                        ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:18: Warning: A newer version of com.google.android.material:material than 1.11.0 is available: 1.14.0 [GradleDependency]
+material = { module = "com.google.android.material:material", version = "1.11.0" }
+                                                                        ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:18: Warning: A newer version of com.google.android.material:material than 1.11.0 is available: 1.14.0 [GradleDependency]
+material = { module = "com.google.android.material:material", version = "1.11.0" }
+                                                                        ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:19: Warning: A newer version of androidx.constraintlayout:constraintlayout than 2.1.4 is available: 2.2.1 [GradleDependency]
+androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version = "2.1.4" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:19: Warning: A newer version of androidx.constraintlayout:constraintlayout than 2.1.4 is available: 2.2.1 [GradleDependency]
+androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version = "2.1.4" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:19: Warning: A newer version of androidx.constraintlayout:constraintlayout than 2.1.4 is available: 2.2.1 [GradleDependency]
+androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayout", version = "2.1.4" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:20: Warning: A newer version of androidx.swiperefreshlayout:swiperefreshlayout than 1.1.0 is available: 1.2.0 [GradleDependency]
+androidx-swiperefresh = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version = "1.1.0" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:20: Warning: A newer version of androidx.swiperefreshlayout:swiperefreshlayout than 1.1.0 is available: 1.2.0 [GradleDependency]
+androidx-swiperefresh = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version = "1.1.0" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:20: Warning: A newer version of androidx.swiperefreshlayout:swiperefreshlayout than 1.1.0 is available: 1.2.0 [GradleDependency]
+androidx-swiperefresh = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version = "1.1.0" }
+                                                                                               ~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:45: Warning: A newer version of com.google.android.gms:play-services-location than 21.1.0 is available: 21.3.0 [GradleDependency]
+play-location = { module = "com.google.android.gms:play-services-location", version = "21.1.0" }
+                                                                                      ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:45: Warning: A newer version of com.google.android.gms:play-services-location than 21.1.0 is available: 21.3.0 [GradleDependency]
+play-location = { module = "com.google.android.gms:play-services-location", version = "21.1.0" }
+                                                                                      ~~~~~~~~
+D:\WeatherApp\gradle\libs.versions.toml:45: Warning: A newer version of com.google.android.gms:play-services-location than 21.1.0 is available: 21.3.0 [GradleDependency]
+play-location = { module = "com.google.android.gms:play-services-location", version = "21.1.0" }
+                                                                                      ~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+D:\WeatherApp\app\src\main\res\values\strings.xml:3: Warning: The resource R.string.app_name appears to be unused [UnusedResources]
+    <string name="app_name">WeatherApp</string>
+            ~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "UnusedResources":
+   Unused resources make applications larger and slow down builds.
+
+
+   The unused resource check can ignore tests. If you want to include
+   resources that are only referenced from tests, consider packaging them in a
+   test source set instead.
+
+   You can include test sources in the unused resource check by setting the
+   system property lint.unused-resources.include-tests =true, and to exclude
+   them (usually for performance reasons), use
+   lint.unused-resources.exclude-tests =true.
+   ,
+
+D:\WeatherApp\app\src\main\res\layout\fragment_search.xml:8: Warning: This text field does not specify an inputType [TextFields]
+    <EditText
+     ~~~~~~~~
+
+   Explanation for issues of type "TextFields":
+   Providing an inputType attribute on a text field improves usability because
+   depending on the data to be input, optimized keyboards can be shown to the
+   user (such as just digits and parentheses for a phone number). 
+
+   The lint detector also looks at the id of the view, and if the id offers a
+   hint of the purpose of the field (for example, the id contains the phrase
+   phone or email), then lint will also ensure that the inputType contains the
+   corresponding type attributes.
+
+   If you really want to keep the text field generic, you can suppress this
+   warning by setting inputType="text".
+
+D:\WeatherApp\app\src\main\res\layout\fragment_search.xml:8: Warning: Missing autofillHints attribute [Autofill]
+    <EditText
+     ~~~~~~~~
+
+   Explanation for issues of type "Autofill":
+   Specify an autofillHints attribute when targeting SDK version 26 or higher
+   or explicitly specify that the view is not important for autofill. Your app
+   can help an autofill service classify the data correctly by providing the
+   meaning of each view that could be autofillable, such as views representing
+   usernames, passwords, credit card fields, email addresses, etc.
+
+   The hints can have any value, but it is recommended to use predefined
+   values like 'username' for a username or 'creditCardNumber' for a credit
+   card number. For a list of all predefined autofill hint constants, see the
+   AUTOFILL_HINT_ constants in the View reference at
+   https://developer.android.com/reference/android/view/View.html.
+
+   You can mark a view unimportant for autofill by specifying an
+   importantForAutofill attribute on that view or a parent view. See
+   https://developer.android.com/reference/android/view/View.html#setImportant
+   ForAutofill(int).
+
+   https://developer.android.com/guide/topics/text/autofill.html
+
+D:\WeatherApp\app\src\main\res\layout\fragment_home.xml:23: Warning: Missing contentDescription attribute on image [ContentDescription]
+        <ImageView
+         ~~~~~~~~~
+D:\WeatherApp\app\src\main\res\layout\fragment_home.xml:97: Warning: Missing contentDescription attribute on image [ContentDescription]
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\res\layout\item_forecast.xml:20: Warning: Missing contentDescription attribute on image [ContentDescription]
+    <ImageView
+     ~~~~~~~~~
+
+   Explanation for issues of type "ContentDescription":
+   Non-textual widgets like ImageViews and ImageButtons should use the
+   contentDescription attribute to specify a textual description of the widget
+   such that screen readers and other accessibility tools can adequately
+   describe the user interface.
+
+   Note that elements in application screens that are purely decorative and do
+   not provide any content or enable a user action should not have
+   accessibility content descriptions. In this case, set their descriptions to
+   @null. If your app's minSdkVersion is 16 or higher, you can instead set
+   these graphical elements' android:importantForAccessibility attributes to
+   no.
+
+   Note that for text fields, you should not set both the hint and the
+   contentDescription attributes since the hint will never be shown. Just set
+   the hint.
+
+   https://developer.android.com/guide/topics/ui/accessibility/apps#special-cases
+
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\ForecastAdapter.kt:37: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+                    "${(item.pop * 100).toInt()}%"
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:167: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "${data.name}, ${data.sys.country}"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:179: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "C?m gi�c nhu ${data.main.feelsLike.toTempString()}"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:179: Warning: String literal in setText can not be translated. Use Android resources instead. [SetTextI18n]
+            "C?m gi�c nhu ${data.main.feelsLike.toTempString()}"
+             ~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:182: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "${data.main.humidity}%"
+            ~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:185: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "${data.wind.speed} m/s ${data.wind.deg.toWindDirection()}"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:188: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "${data.main.pressure} hPa"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:188: Warning: String literal in setText can not be translated. Use Android resources instead. [SetTextI18n]
+            "${data.main.pressure} hPa"
+                                  ~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:191: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "${data.visibility / 1000} km"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:191: Warning: String literal in setText can not be translated. Use Android resources instead. [SetTextI18n]
+            "${data.visibility / 1000} km"
+                                      ~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:200: Warning: Do not concatenate text displayed with setText. Use resource string with placeholders. [SetTextI18n]
+            "C?p nh?t: ${data.dt.toFormattedDate()}"
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\java\com\weatherapp\ui\home\HomeFragment.kt:200: Warning: String literal in setText can not be translated. Use Android resources instead. [SetTextI18n]
+            "C?p nh?t: ${data.dt.toFormattedDate()}"
+             ~~~~~~~~~~
+
+   Explanation for issues of type "SetTextI18n":
+   When calling TextView#setText
+   * Never call Number#toString() to format numbers; it will not handle
+   fraction separators and locale-specific digits properly. Consider using
+   String#format with proper format specifications (%d or %f) instead.
+   * Do not pass a string literal (e.g. "Hello") to display text. Hardcoded
+   text can not be properly translated to other languages. Consider using
+   Android resource strings instead.
+   * Do not build messages by concatenating text chunks. Such messages can not
+   be properly translated.
+
+   https://developer.android.com/guide/topics/resources/localization.html
+
+D:\WeatherApp\app\src\main\res\layout\fragment_home.xml:83: Warning: Hardcoded string "Vị trí", should use @string resource [HardcodedText]
+            android:text="Vị trí"/>
+            ~~~~~~~~~~~~~~~~~~~~~
+D:\WeatherApp\app\src\main\res\layout\fragment_search.xml:11: Warning: Hardcoded string "Nhập tên thành phố", should use @string resource [HardcodedText]
+        android:hint="Nhập tên thành phố" />
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "HardcodedText":
+   Hardcoding text attributes directly in layout files is bad for several
+   reasons:
+
+   * When creating configuration variations (for example for landscape or
+   portrait) you have to repeat the actual text (and keep it up to date when
+   making changes)
+
+   * The application cannot be translated to other languages by just adding
+   new translations for existing string resources.
+
+   There are quickfixes to automatically extract this hardcoded string into a
+   resource lookup.
+
+0 errors, 65 warnings

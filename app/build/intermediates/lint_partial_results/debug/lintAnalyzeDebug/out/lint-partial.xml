@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.3.0" type="partial_results">
+    <map id="UnsafeIntentLaunch">
+            <map id="unprotected">
+                <entry
+                    name="com.weatherapp.MainActivity"
+                    boolean="true"/>
+            </map>
+    </map>
+    <map id="UnusedResources">
+        <location id="R.string.app_name"
+            file="${:app*debug*MAIN*sourceProvider*0*resDir*0}/values/strings.xml"
+            line="3"
+            column="13"
+            startOffset="65"
+            endLine="3"
+            endColumn="28"
+            endOffset="80"/>
+        <entry
+            name="model"
+            string="id[nav_host(U),swipeRefresh(U),tvCityName(U),ivWeatherIcon(U),tvTemperature(U),tvDescription(U),tvFeelsLike(U),tvHumidity(U),tvWind(U),tvPressure(U),tvVisibility(U),tvSunrise(U),tvSunset(U),tvUpdated(U),btnLocation(U),rvForecast(U),progressBar(U),fabSearch(U),tvDay(U),tvTime(U),ivIcon(U),tvTemp(U),tvDesc(U),tvRain(U),nav_graph(D),homeFragment(U),action_home_to_search(R),searchFragment(U)],layout[activity_main(U),fragment_home(U),fragment_search(U),item_forecast(U)],navigation[nav_graph(U)],string[app_name(D)],style[Theme_WeatherApp(U),Theme_Material3_DayNight_NoActionBar(R)];1c^20,20^19^1b,22^23;;;"/>
+    </map>
+
+</incidents>

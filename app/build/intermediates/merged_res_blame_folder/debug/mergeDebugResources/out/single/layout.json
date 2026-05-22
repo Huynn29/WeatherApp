@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-mergeDebugResources-55:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-main-58:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-mergeDebugResources-55:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-main-58:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-mergeDebugResources-55:\\layout\\item_forecast.xml",
+        "source": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-main-58:\\layout\\item_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Huy\\.gradle\\daemon\\9.0.0\\com.weatherapp-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.weatherapp-mergeDebugResources-55:/layout/fragment_home.xml",
+        "source": "com.weatherapp-main-58:/layout/fragment_home.xml"
+    }
+]
