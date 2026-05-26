@@ -5,7 +5,7 @@
 ## Tính năng
 - Xem thời tiết theo GPS
 - Tìm kiếm theo thành phố
-- Dự báo 5 ngày / 3 giờ
+- Dự báo 5 ngày
 - Hiển thị nhiệt độ, độ ẩm, gió, cảm giác thực
 
 ## Điểm nổi bật
